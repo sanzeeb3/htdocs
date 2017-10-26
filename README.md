@@ -16,8 +16,8 @@ cd /d/htdocs
 npm i -g hostile
 hostile load hosts-config
 
-# PHP Config
-./php-memory.sh
+# Install configs
+./install-configs.sh
 ```
 
 License
