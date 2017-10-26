@@ -16,7 +16,7 @@ cd /d/htdocs
 npm i -g hostile
 hostile load hosts-config
 
-# Install configs
+# Install
 ./install-configs.sh
 ```
 
