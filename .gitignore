@@ -1,4 +1,5 @@
 */**
+!favicon/**
 
 # Grunt
 npm-debug.log
