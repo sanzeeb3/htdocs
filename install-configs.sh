@@ -1,6 +1,6 @@
 #!/bin/sh
-PHP_INI_FILE="/c/xampp/php/php.ini"
-HTTPD_CONF_FILE="/c/xampp/apache/conf/httpd.conf"
+PHP_INI_FILE="/d/xampp/php/php.ini"
+HTTPD_CONF_FILE="/d/xampp/apache/conf/httpd.conf"
 
 # PHP memory
 echo " -> Updating PHP configs..."
