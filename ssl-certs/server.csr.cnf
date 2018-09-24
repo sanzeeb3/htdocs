@@ -1,0 +1,14 @@
+[req]
+default_bits = 2048
+prompt = no
+default_md = sha256
+distinguished_name = dn
+
+[dn]
+C=NP
+ST=Bagmati
+L=Kathmandu
+O=WooCommerce, Inc.
+OU=eCommerce
+emailAddress=contact@woocommerce.io
+CN = woocommerce.io
